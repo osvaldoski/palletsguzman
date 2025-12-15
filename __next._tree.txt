@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/47175b5589eac99f.css","style"]
+:HL["/_next/static/chunks/39954c37066f9a74.css","style"]
 :HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/wooden-pallets-warehouse-stacked-organized.jpg","image"]
-0:{"buildId":"rJ3b36LQleW5TY3hlRkCj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"P0BhDflpK5VtnweE-tXn2","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
